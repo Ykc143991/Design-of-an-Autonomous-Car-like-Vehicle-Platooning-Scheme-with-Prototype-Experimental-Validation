@@ -23,4 +23,4 @@ Testing and refining cooperative control schemes for optimal formation control a
 
 Repository Status
 
-As this is an ongoing project, files and updates will be uploaded progressively as they are completed and tested.
+This is an ongoing research project. Currently, only the demonstration video is available. Technical details, source files, and other supporting materials will be released upon the publication of the associated research paper.
